@@ -1,0 +1,142 @@
+{
+  "guajiro": [
+    {
+      "question": "¿De qué departamento es oriundo Alfredo Deluque?",
+      "options": ["Atlántico", "Magdalena", "La Guajira", "Cesar"],
+      "answer": 2,
+      "rationale": "Es un líder orgullosamente guajiro, trabajando por el desarrollo de su región y del Caribe."
+    },
+    {
+      "question": "¿Qué grave escándalo de corrupción denunció recientemente relacionado con la UNGRD?",
+      "options": ["El escándalo de los carrotanques", "El caso de Odebrecht", "El carrusel de la contratación", "Reficar"],
+      "answer": 0,
+      "rationale": "Destapó y denunció las irregularidades en la compra de carrotanques destinados al agua en La Guajira."
+    },
+    {
+      "question": "¿Qué categoría especial logró para Puerto Colombia?",
+      "options": ["Distrito Turístico y Cultural", "Zona Franca", "Capital Alterna", "Área Metropolitana"],
+      "answer": 0,
+      "rationale": "Impulsó la ley que lo declara Distrito Turístico, Cultural e Histórico."
+    }
+  ],
+  "opositor": [
+    {
+      "question": "¿A quién protege la Ley 'Dejen de Fregar'?",
+      "options": ["A los bancos", "A los consumidores financieros", "A las empresas de telefonía", "Al gobierno"],
+      "answer": 1,
+      "rationale": "Protege a los ciudadanos del acoso telefónico de cobranzas en horarios no hábiles."
+    },
+    {
+      "question": "¿Cuál fue su postura frente a la Ley de 'Paz Total'?",
+      "options": ["Votó en contra", "Se declaró impedido", "Votó positivamente", "Archivó el proyecto"],
+      "answer": 2,
+      "rationale": "Participó activamente y apoyó la ley marco para la política de paz."
+    },
+    {
+      "question": "¿Qué posición defendió sobre el Cannabis de Uso Adulto?",
+      "options": ["Opositor radical", "Coautor y defensor de la regulación", "Prohibición total", "Solicitó referendo"],
+      "answer": 1,
+      "rationale": "Apoyó la regulación para quitarle el mercado a la ilegalidad y generar recaudo estatal."
+    },
+    {
+      "question": "¿Cómo se describe su perfil legislativo?",
+      "options": ["Técnico y constitucional", "Solo temas religiosos", "Enfocado solo en auxilios", "Perfil bajo"],
+      "answer": 0,
+      "rationale": "Se destaca por un perfil técnico y serio, enfocado en reformas de fondo."
+    }
+  ],
+  "tic": [
+    {
+      "question": "¿Qué estatus le otorgó al Internet mediante una ley de su autoría?",
+      "options": ["Servicio de lujo", "Servicio complementario", "Servicio Público Esencial", "Servicio opcional"],
+      "answer": 2,
+      "rationale": "Logró que el Internet sea declarado Servicio Público Esencial, garantizando su acceso universal, especialmente en zonas rurales."
+    }
+  ],
+  "ciclista": [
+    {
+      "question": "¿Qué deporte practica Alfredo Deluque en sus ratos libres para mantener la disciplina?",
+      "options": ["Fútbol", "Ciclismo", "Tenis", "Natación"],
+      "answer": 1,
+      "rationale": "El ciclismo es su pasión, un deporte que exige resistencia, estrategia y constancia, igual que la política."
+    }
+  ],
+  "votar": [
+    {
+      "question": "¿Cuál es el logo y número de Alfredo Deluque en el tarjetón electoral?",
+      "options": ["Partido Liberal - L1", "Partido de la U - U3", "Centro Democrático - 10", "Cambio Radical - 5"],
+      "answer": 1,
+      "rationale": "Su identificativo en el tarjetón es el logo del Partido de la U y el número 3 (U3)."
+    },
+    {
+      "question": "¿Cuál es el lema principal de su campaña?",
+      "options": ["Hechos para todos", "Cambia el Chip", "Avanzamos juntos", "Firmeza y corazón"],
+      "answer": 1,
+      "rationale": "'Cambia el Chip' es su invitación a legislar con evidencias y resultados, dejando atrás la retórica vacía."
+    }
+  ],
+  "congreso": [
+    {
+      "question": "¿Cuál es el objetivo de su Acto Legislativo sobre alimentación?",
+      "options": ["Crear impuestos", "Prohibir importaciones", "Derecho fundamental a la alimentación", "Subsidios a restaurantes"],
+      "answer": 2,
+      "rationale": "Busca elevar la alimentación adecuada a rango de derecho fundamental en la Constitución."
+    },
+    {
+      "question": "¿Cuál es la profesión de Alfredo Deluque?",
+      "options": ["Ingeniero Civil", "Abogado", "Economista", "Médico"],
+      "answer": 1,
+      "rationale": "Es Abogado, especialista en Derecho de las Telecomunicaciones y Magíster en Derecho Económico."
+    },
+    {
+      "question": "¿Cuál fue el cargo directivo más destacado que ocupó en la Cámara (2015-2016)?",
+      "options": ["Presidente de la Cámara", "Presidente Comisión Acusaciones", "Vicepresidente del Senado", "Vocero del Partido"],
+      "answer": 0,
+      "rationale": "Fue Presidente de la Cámara, liderando la agenda legislativa en una etapa clave para el país."
+    },
+    {
+      "question": "¿A qué comisión constitucional pertenece, encargada de reformas a la Constitución?",
+      "options": ["Comisión Séptima", "Comisión Primera", "Comisión Tercera", "Comisión Quinta"],
+      "answer": 1,
+      "rationale": "Es miembro de la Comisión Primera, donde se tramitan las reformas constitucionales y leyes estatutarias."
+    },
+    {
+      "question": "¿Qué nueva entidad propuso crear para vigilar la calidad educativa?",
+      "options": ["Ministerio de Educación Superior", "Fiscalía Escolar", "Superintendencia de Educación", "Instituto de Becas"],
+      "answer": 2,
+      "rationale": "Propuso la Superintendencia de Educación para la inspección y vigilancia independiente del sistema."
+    },
+    {
+      "question": "¿Qué sanción propuso para quienes violen la libre competencia?",
+      "options": ["Cárcel por deudas", "Inhabilidad para contratar con el Estado", "Multas de tránsito", "Prohibición de licitaciones"],
+      "answer": 1,
+      "rationale": "Inhabilidad para contratar con el Estado a empresas sancionadas por cartelización."
+    },
+    {
+      "question": "¿Cuál es su cargo actual (2022-2026)?",
+      "options": ["Gobernador", "Senador de la República", "Ministro", "Representante a la Cámara"],
+      "answer": 1,
+      "rationale": "Actualmente ejerce como Senador de la República."
+    }
+  ],
+  "relax": [
+    {
+      "question": "¿Cuál es la red social favorita de Alfredo para conectar con la gente?",
+      "options": ["TikTok", "Instagram", "LinkedIn", "Twitter"],
+      "answer": 1,
+      "rationale": "Instagram le permite mostrar su gestión y su lado más humano de forma visual y directa."
+    },
+    {
+      "question": "¿Qué tipo de música prefiere para relajarse?",
+      "options": ["Vallenato clásico", "Rock en español", "Música clásica", "Reggaeton"],
+      "answer": 0,
+      "rationale": "Como buen guajiro, disfruta del vallenato clásico que narra historias y tradiciones."
+    },
+    {
+      "question": "¿Cuál es su plato típico favorito?",
+      "options": ["Ajiaco", "Bandeja Paisa", "Friche", "Tamal"],
+      "answer": 2,
+      "rationale": "El Friche, plato tradicional de La Guajira a base de chivo, es su debilidad gastronómica."
+    }
+  ]
+}
